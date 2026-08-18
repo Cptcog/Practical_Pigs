@@ -1,4 +1,3 @@
-
 advancement revoke @s only practical_pigs:breed_pigs
 
 execute at @s run function practical_pigs:add_pig
