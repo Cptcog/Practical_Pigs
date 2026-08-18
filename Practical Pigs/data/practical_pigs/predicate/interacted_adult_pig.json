@@ -1,6 +1,6 @@
 {
   "condition": "minecraft:entity_properties",
-  "entity": "interacting_entity",
+  "entity": "this",
   "predicate": {
     "minecraft:entity_type": "minecraft:pig",
     "minecraft:flags": {
