@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": "minecraft:porkchop",
+    "result": {
+      "id": "minecraft:charcoal",
+      "components": {
+        "minecraft:item_name": "Tallow",
+        "minecraft:item_model": "practical_pigs:tallow"
+      }
+    },
+    "experience": 0.1
+  }

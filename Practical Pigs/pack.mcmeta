@@ -1,0 +1,21 @@
+{
+	"pack":{
+		"min_format":107,
+		"max_format":107.1,
+		"description":[
+			{
+			"text":"Practical Pigs",
+			"color":"#FC0FC0"
+			},
+			{
+  			"text": "\n"
+			},
+			{
+			"text":"Created by Cptcog. Giving Pigs a useful quality since every other passive mob is useful."
+			}
+
+		]
+	}
+}
+
+
