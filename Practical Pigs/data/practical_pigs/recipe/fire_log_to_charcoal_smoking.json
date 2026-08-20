@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": "minecraft:salmon_spawn_egg",
+    "result": {
+      "id": "minecraft:charcoal"
+      
+    },
+    "experience": 0.1
+  }

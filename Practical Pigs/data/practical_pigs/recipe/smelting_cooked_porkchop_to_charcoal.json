@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": "minecraft:cooked_porkchop",
+    "result": {
+      "id": "minecraft:charcoal"
+      
+    },
+    "experience": 0.1
+  }
