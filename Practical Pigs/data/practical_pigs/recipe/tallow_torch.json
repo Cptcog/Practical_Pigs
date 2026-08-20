@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+	  "#": [
+		"minecraft:stick"
+	  ],
+	  "@": [
+		"minecraft:pig_spawn_egg"
+	  ],
+	  "$": [
+		"minecraft:string"
+	  ]
+	},
+	"pattern": [
+	  "  @",
+	  " $",
+	  "#"
+	],
+	"result": {
+	  "id": "minecraft:torch",
+	  "count": 8
+	}
+  }

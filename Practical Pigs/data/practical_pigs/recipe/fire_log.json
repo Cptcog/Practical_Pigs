@@ -1,0 +1,86 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": true,
+	"category": "misc",
+	"ingredients": [
+	  [
+		"minecraft:dried_kelp",
+		"minecraft:short_dry_grass"
+	  ],
+	  [
+		"minecraft:dried_kelp",
+		"minecraft:short_dry_grass"
+	  ],
+	  [
+		"minecraft:dried_kelp",
+		"minecraft:short_dry_grass"
+	  ],
+	  [
+		"minecraft:dried_kelp",
+		"minecraft:short_dry_grass"
+	  ],
+	  "minecraft:pig_spawn_egg",
+	  [
+		"minecraft:acacia_leaves",
+		"minecraft:azalea_leaves",
+		"minecraft:birch_leaves",
+		"minecraft:cherry_leaves",
+		"minecraft:dark_oak_leaves",
+		"minecraft:flowering_azalea_leaves",
+		"minecraft:jungle_leaves",
+		"minecraft:mangrove_leaves",
+		"minecraft:oak_leaves",
+		"minecraft:pale_oak_leaves",
+		"minecraft:spruce_leaves"
+	  ],
+	  [
+		"minecraft:acacia_leaves",
+		"minecraft:azalea_leaves",
+		"minecraft:birch_leaves",
+		"minecraft:cherry_leaves",
+		"minecraft:dark_oak_leaves",
+		"minecraft:flowering_azalea_leaves",
+		"minecraft:jungle_leaves",
+		"minecraft:mangrove_leaves",
+		"minecraft:oak_leaves",
+		"minecraft:pale_oak_leaves",
+		"minecraft:spruce_leaves"
+	  ],
+	  [
+		"minecraft:acacia_leaves",
+		"minecraft:azalea_leaves",
+		"minecraft:birch_leaves",
+		"minecraft:cherry_leaves",
+		"minecraft:dark_oak_leaves",
+		"minecraft:flowering_azalea_leaves",
+		"minecraft:jungle_leaves",
+		"minecraft:mangrove_leaves",
+		"minecraft:oak_leaves",
+		"minecraft:pale_oak_leaves",
+		"minecraft:spruce_leaves"
+	  ],
+	  [
+		"minecraft:acacia_leaves",
+		"minecraft:azalea_leaves",
+		"minecraft:birch_leaves",
+		"minecraft:cherry_leaves",
+		"minecraft:dark_oak_leaves",
+		"minecraft:flowering_azalea_leaves",
+		"minecraft:jungle_leaves",
+		"minecraft:mangrove_leaves",
+		"minecraft:oak_leaves",
+		"minecraft:pale_oak_leaves",
+		"minecraft:spruce_leaves"
+	  ]
+	],
+	"result": {
+		"id": "salmon_spawn_egg",
+		"components": {
+			"!minecraft:entity_data": {},
+			"minecraft:item_name": "Fire Log"
+
+		},
+		"count": 2
+	 
+	}
+  }
